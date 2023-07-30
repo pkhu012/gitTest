@@ -18,6 +18,7 @@
     // Insert code here to initialize your application
     NSLog(@"소스변경 테스트");
     NSLog(@"소스변경 테스트");
+    NSLog(@"개인 브랜치에서 변경");
 }
 
 
