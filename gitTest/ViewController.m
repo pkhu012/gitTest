@@ -14,6 +14,7 @@
     NSLog(@"소스변경 테스트");
     NSLog(@"소스변경 테스트");
     NSLog(@"소스변경 테스트");
+    NSLog(@"메인 브렌치에서 변경");
 
     // Do any additional setup after loading the view.
 }
