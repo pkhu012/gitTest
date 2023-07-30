@@ -12,6 +12,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"소스변경 테스트");
+    NSLog(@"소스변경 테스트");
+    NSLog(@"소스변경 테스트");
 
     // Do any additional setup after loading the view.
 }
